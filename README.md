@@ -5,6 +5,9 @@ Download the ' run_interface.py ' file and run it. This program does some intere
 
 Sample interaction (note the input):
 
+
+```
+
 This program will do some interesting things,
     primarily searching & modifying files
     and folders of your computer.
@@ -123,3 +126,5 @@ Root directory successfully set up!
    4
    You are about the quit the program.
    Are you sure? (yes/no): yes
+
+```
